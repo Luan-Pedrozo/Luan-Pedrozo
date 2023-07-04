@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Luan 😁
+# Bem-vindo(a) ao perfil do Luan 😁
 
  <div>
    <a href="https://github.com/">
@@ -14,7 +14,7 @@
  
  <br>
  
-  ### Pra conteúdo sobre programação me segue redes abaixo!
+  ### me segue redes abaixo!
  
 <div> 
   <a href="https://www.youtube.com/@dednb" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
